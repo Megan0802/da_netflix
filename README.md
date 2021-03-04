@@ -7,3 +7,6 @@
 ## bestsellers
   - 亚马逊畅销书分析与可视化.ipynb 报告
   - bestsellers with categories.csv 原始数据
+## mall_customer
+  - 商场客户K-Means聚类分析.ipynb 报告
+  - Mall_Customers.csv 原始数据
